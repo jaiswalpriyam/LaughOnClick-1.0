@@ -1,0 +1,13 @@
+    {
+    "name": "LaughOnClick",
+    "description": "Your daily dose of humor, one joke at a time—right in your browser!",
+    "version": "1.0",
+    "manifest_version":3,
+    "action":{
+      "default_popup":"popup.html"
+    },
+    "icons":{
+      "128":"logo.png"
+    },
+    "permissions":["activeTab"]
+  }
